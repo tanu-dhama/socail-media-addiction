@@ -1,5 +1,5 @@
 # socail-media-addiction
-Purpose  of This Dashboard
+PURPOSE
 
  Its purpose is to help visualize and track how students are interacting with social media and how that usage may be impacting their mental health and well‑being. Here's a breakdown of the key components:
 
