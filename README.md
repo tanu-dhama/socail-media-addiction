@@ -29,8 +29,8 @@ Controls like Type (e.g., Default, Top 10, Top 5, Top 50) and gender selec
 
 DAX Formula
 
-AGE GROUP 
-1.Age_Group = SWITCH(TRUE,'Students Social Media Addiction'[Age] <= 20, " 15-20 Year"
+1.AGE GROUP 
+Age_Group = SWITCH(TRUE,'Students Social Media Addiction'[Age] <= 20, " 15-20 Year"
 ,'Students Social Media Addiction'[Age] >= 21 && 'Students Social Media Addiction'[Age] < 25 ,"21-25 Year"
 ,'Students Social Media Addiction'[Age] >= 25 && 'Students Social Media Addiction'[Age] < 30 ,"25-30 Year"
 )
